@@ -1,0 +1,105 @@
+<html>
+
+  <head>
+  <title>Моя первая пекарня</title>
+<style>
+html { height: 100%; }
+ body {
+    background: url(_1_babka.jpg) no-repeat;
+    -moz-background-size: 100%; /* Firefox 3.6+ */
+    -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
+    -o-background-size: 100%; /* Opera 9.6+ */
+    background-size: 100%; /* Современные браузеры */
+   }
+
+</style>
+  </head>
+
+</style>
+  </head>
+
+<p style="margin-left: 500px; margin-top: 80px;">
+
+<ins>
+    </h3>
+    <i>
+    <font size=12>
+    <font color=FFFF00>
+    МОЯ ПЕРВАЯ ПЕКАРНЯ
+    </font>
+    </i>  
+    <h3> 
+    </h3>
+</ins>
+
+</p>
+
+
+<p style="margin-left: 250px; margin-top: 20px;">
+
+<big>
+    </h3>
+    <b>
+    <font size=9>
+    <font color=ff0000>
+    ПРИВЕТ, КАЗАН И УГЛИ!
+    </font>
+    </b> 
+    <h3> 
+    </h3>
+</big>
+
+</p>
+
+
+<p style="margin-left: 50px;">
+
+    </h3>
+    
+    <font size=6>
+    <font color=f1af0f>
+Меня зовут Первое Живое Хлебобулочное Изделие </br>
+Сферической Формы или Колобок, для друзей Колабстер)</br>
+    </font>
+    
+    <h3> 
+    </h3>
+
+
+<p style="margin-left: 50px;">
+
+    </h3>
+    <tt>
+    <font size=5>
+    <font color=0000FF>
+В общем, началось все с того, что двое ленивых стариков решили побаловать себя пирожками.</br> 
+В магазин идти никто нехотел и бабка была сослана в амбар "скрести по сусекам".</br> 
+И все бы ничего, если бы мыши не доели последние запасы.</br> 
+Набрав пару горсточек, первый пекарь на деревне искала начинку.</br>  
+Но мыши постарались и тут. Правда, по ночам им еще и дед помогал.</br> 
+Так сказать, уничтожал запасы подпольно. Обнаружив проеденную брешь в семейном погребе, </br> 
+было принято решение тупо меня в шарик скатать. </br> 
+
+
+
+    </font>
+    </tt>
+    <h3> 
+
+<body>
+
+
+  <p style="margin-left: 150px;"> 
+<a href="Kolabster_prodoljenie — копия.html">Читать дальше...</a>
+</p> 
+
+</body>
+    </h3>
+
+</p>
+
+
+   
+
+   </body>
+</html>

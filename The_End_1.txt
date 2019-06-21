@@ -1,0 +1,60 @@
+<html>
+
+  <head>
+  <title>Моя первая пекарня</title>
+<style>
+html { height: 100%; }
+ body {
+    background: url(_16_kolobok_na_korable.jpg) no-repeat;
+    -moz-background-size: 100%; /* Firefox 3.6+ */
+    -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
+    -o-background-size: 100%; /* Opera 9.6+ */
+    background-size: 100%; /* Современные браузеры */
+   }
+
+</style>
+  </head>
+
+</style>
+  </head>
+  
+<p style="margin-left: 60px; margin-top: 120px;">
+
+    </h3>
+    <tt>
+    <font size=6>
+    <font color=0000FF>
+
+
+ Объявили посадку и я прошмыгнул в свою каюту пока</br>
+ с булки документы не стали требовать.</br>
+- Хелоу! Май нэйм из Колабсэр.</br> 
+Ай эм вэри фэймос продюсэр ин форэст.</br> 
+Бат нау ай ливинг ин Амэрыка. </br>
+Ду ю вонт би май стар? - заучивал я перед зеркалом. </br>
+Корабль отплыл, меня кидануло под соседнюю койку. </br>
+Я, конечно, выкатился, но со мной выкатилась и вся та пыль,</br>
+ которая была на корабле еще со времен Колумба.</br>
+Тааак, несите тазик...Дрожжи просятся наружу...</br>
+Чтоб я, да еще раз, на каком-то коробле...</br>
+Через несколько суток общения с тазиком я высадился на берегу</br>
+ самого Нью-Йорка. Но это уже другая история.</br>
+    </font>
+    </tt>
+   
+
+</p>
+
+ <p style="margin-left: 60px; margin-top: 15px;">
+<audio controls>
+<source src="_Hellou.mp3" type="audio/mp3">
+   </p>
+
+
+   <p style="margin-left: 150px;"> 
+<a href="Universitet — копия.html">КОНЕЦ!</a>
+</p> 
+   
+
+   </body>
+</html>

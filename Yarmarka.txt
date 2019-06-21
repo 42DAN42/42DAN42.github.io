@@ -1,0 +1,78 @@
+<html>
+
+  <head>
+  <title>Моя первая пекарня</title>
+<style>
+html { height: 100%; }
+ body {
+    background: url(_14_yarmaka.jpg) no-repeat;
+    -moz-background-size: 100%; /* Firefox 3.6+ */
+    -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
+    -o-background-size: 100%; /* Opera 9.6+ */
+    background-size: 100%; /* Современные браузеры */
+   }
+
+</style>
+  </head>
+
+</style>
+  </head>
+  
+<p style="margin-left: 60px; margin-top: 80px;">
+
+    </h3>
+    <tt>
+    <font size=5>
+    <font color=0000FF>
+
+
+Выходим мы на площадь, а там посередине сцена и пустая. </br>
+- Лиса, - говорю - ты меня возьмии прям на сцену закинь. </br>
+А сама сзади спрячься. Как шляпой махну, выскакивай</br> 
+и петь начинай.</br>
+Лиса - артистка послушная, запустила меня прям через всю толпу.</br>
+Ну, я не растерялся и начал: </br>
+- Дамы и господа, лэдис и жэнтэльмэнс!</br> 
+Впервые, в вашей Закукуевке непревзойденная, обворажительная</br> 
+и голосистая - Лэди Фокс!</br>
+Сорвав с головы шляпу, махнул ей в сторону Лисы.</br>
+Эта рыжая как выскочит, как начнет во все горло SKIBIDI</br>
+ CHALLENGE наваливать, я только успевал с толпы деньги собирать. </br>
+Когда набралась полная шляпа, я себе спрыгнул в стороночку</br>
+ и думаю...</br>
+
+
+
+    </font>
+    </tt>
+    <h3> 
+
+ <p style="margin-left: 60px; margin-top: 15px;">
+<audio controls>
+<source src="_Lisa!.mp3" type="audio/mp3">
+   </p>
+
+ <p style="margin-left: 60px; margin-top: 15px;">
+<audio controls>
+<source src="_Damu_i_gospoda.mp3" type="audio/mp3">
+   </p>
+
+
+<body>
+
+   <p style="margin-left: 80px;"> 
+<a href="Kinut`_Lisu — копия.html">Кинуть Лису и свалить с деньгами?</a></p> 
+
+  <p style="margin-left: 80px;"> 
+<a href="Zabrat`_Lisu — копия.html">Забрать Лису и покорять мировую сцену?</a></p>
+  
+</body>
+    </h3>
+
+</p>
+
+
+   
+
+   </body>
+</html>

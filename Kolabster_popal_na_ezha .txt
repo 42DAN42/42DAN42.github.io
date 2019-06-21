@@ -1,0 +1,63 @@
+<html>
+
+  <head>
+  <title>Моя первая пекарня</title>
+<style>
+html { height: 100%; }
+ body {
+    background: url(_7_popal_na_ezha.jpg) no-repeat;
+    -moz-background-size: 100%; /* Firefox 3.6+ */
+    -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
+    -o-background-size: 100%; /* Opera 9.6+ */
+    background-size: 100%; /* Современные браузеры */
+   }
+
+</style>
+  </head>
+
+</style>
+  </head>
+  
+<p style="margin-left: 60px; margin-top: 250px;">
+
+    </h3>
+    <tt>
+    <font size=6>
+    <font color=0000FF>
+
+
+- Аааа...Еж, твою мать, ты зачем свои иголки мне в бок воткнул?!</br> 
+Скидки у него блин, на акупунктуру!</br>
+В общем, когда я с этими словами на поляну к зайцам выскочил,</br>
+их уже и след простыл. Одна шкура мэра осталась!</br>
+Да... Зайцы оказались на редкость трусливыми.</br>
+
+
+    </font>
+    </tt>
+    <h3> 
+
+<p style="margin-left: 60px; margin-top: 30px;">
+
+<audio controls>
+<source src="3_accupunktura.mp3" type="audio/mp3">
+
+</p>
+
+<body>
+
+
+  <p style="margin-left: 150px;"> 
+<a href="Kolabster_kuda_idti(volk_ili_medved) — копия.html">Читать дальше...</a>
+</p> 
+
+</body>
+    </h3>
+
+</p>
+
+
+   
+
+   </body>
+</html>

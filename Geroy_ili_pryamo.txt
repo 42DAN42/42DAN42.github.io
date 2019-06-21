@@ -1,0 +1,70 @@
+<head>
+  <title>Моя первая пекарня</title>
+<style>
+html { height: 100%; }
+ body {
+    background: url(_10_kuda_katitsya.jpg) no-repeat;
+    -moz-background-size: 100%; /* Firefox 3.6+ */
+    -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
+    -o-background-size: 100%; /* Opera 9.6+ */
+    background-size: 100%; /* Современные браузеры */
+   }
+
+</style>
+  </head>
+
+</style>
+  </head>
+  
+<p style="margin-left: 60px; margin-top: 120px;">
+
+    </h3>
+    <tt>
+    <font size=6>
+    <font color=0000FF>
+
+Мне повезло, на кочке волга подскочила и багажник открылся.</br> 
+- Это мой шанс! - кричал я, выскакивая из этого гроба на колесах.</br>
+</br>
+Фух, никогда не думал, что буду так лесу радоваться...</br>
+Ладно, надо двигаться дальше. Обзор местности...Ага.</br>
+Ну, вроде понятно. Вот дорога, даже ровная, вроде.</br>
+Только сбоку что-то...А, знакомая шелуха.</br>
+
+
+    </font>
+    </tt>
+    <h3> 
+
+
+<p style="margin-left: 60px; margin-top: 30px;">
+
+<audio controls>
+<source src="4_chance.mp3" type="audio/mp3">
+
+</p>
+
+<body>
+
+
+ <p style="margin-left: 80px;"> 
+<a href="katitsa_pryamo_ot_medvedya — копия.html">Катиться прямо?</a></p> 
+
+  <p style="margin-left: 80px;"> 
+<a href="po_sledam_sheluhi — копия.html">Пойти по следам шелухи?</a></p>
+
+</body>
+    </h3>
+
+</p>
+
+
+   
+
+   </body>
+</html>
+
+
+
+
+

@@ -1,0 +1,57 @@
+<html>
+
+  <head>
+  <title>Моя первая пекарня</title>
+<style>
+html { height: 100%; }
+ body {
+    background: url(_8_rzhavaja_volga.jpg) no-repeat;
+    -moz-background-size: 100%; /* Firefox 3.6+ */
+    -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
+    -o-background-size: 100%; /* Opera 9.6+ */
+    background-size: 100%; /* Современные браузеры */
+   }
+
+</style>
+  </head>
+
+</style>
+  </head>
+  
+<p style="margin-left: 60px; margin-top: 200px;">
+
+    </h3>
+    <tt>
+    <font size=6>
+    <font color=0000FF>
+
+Дороги в том направлении не оказалось.</br> 
+Пришлось в попрыгунчик поиграть. Скачу я на запах. </br>
+Я так считаю, в жизни нужно попробовать все, пока</br>
+ не сыграл в ящик. Но я не думал, что мой ящик так воняет...</br>
+И крышка не поддается... значит, ждем-с.</br>
+</br>
+Мне повезло, на кочке волга подскочила и багажник открылся. </br>
+- Это мой шанс! - кричал я, </br>
+выскакивая из этого гроба на колесах.</br>
+
+    </font>
+    </tt>
+    <h3> 
+
+<body>
+
+  <p style="margin-left: 150px;"> 
+<a href="Vstrecha_s_Lisoy — копия.html">Читать дальше...</a>
+</p> 
+  
+</body>
+    </h3>
+
+</p>
+
+
+   
+
+   </body>
+</html>
